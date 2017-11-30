@@ -136,7 +136,8 @@ pub fn last_resort_font_families() -> Vec<String> {
     vec!(
         "Fira Sans".to_owned(),
         "DejaVu Sans".to_owned(),
-        "Arial".to_owned()
+        "Arial".to_owned(),
+        "sans-serif".to_owned()
     )
 }
 
